@@ -3,5 +3,5 @@ a = input()
 b = input()
 
 if operation == "+":
-    print(a+b)
+    print(int(a)+(int(b)))
     input("Press any key to continue")
